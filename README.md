@@ -41,7 +41,7 @@ nodemon index.js
 
 ### Step 5 - To see the home page
 
-http://localhost:8888/futurecomputer/frontend/index.html
+http://localhost:8888/doorsteps-project/frontend/index.html
 
 or use ip in the place of localhost (Port can vary as per the OS)
 
