@@ -1,0 +1,5 @@
+backend/node_modules/
+frontend/node_modules/
+Backend/config.json
+Frontend/js/config.json
+node_modules/
